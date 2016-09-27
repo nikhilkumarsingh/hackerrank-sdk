@@ -29,7 +29,9 @@ Install the package:
 ## Examples
 ```python
 from hackerrank.HackerRankAPI import HackerRankAPI
+
 API_KEY = ''  #your API-KEY here
+
 compiler = HackerRankAPI(api_key = API_KEY)
 
 print compiler.supportedlanguages()     #prints a list of supported languages
@@ -51,6 +53,7 @@ result = compiler.run({'source': source,
 print(result.output,result.time,result.memory,result.message)    #get different variables associated with the result
 ```
 Testcases are passed as a list of strings.
+
 Here is another example which shows how to give testcases to the compiler:
 ```python
 from hackerrank.HackerRankAPI import HackerRankAPI
