@@ -1,5 +1,4 @@
-
-from HackerRankAPI import HackerRankAPI
+from hackerrank.HackerRankAPI import HackerRankAPI
 
 API_KEY = 'hackerrank|751319-994|d057e21968795c38201ca37d376201eff936f29b'
 
@@ -20,4 +19,4 @@ result = compiler.run({'source': source,
                        'lang':'python',
                        'testcases':["9 27"]
                        })
-print(result)
+print(result.output[0])
