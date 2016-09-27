@@ -1,3 +1,7 @@
+[![PyPI](https://img.shields.io/badge/PyPi-v0.1-f39f37.svg)](https://pypi.python.org/pypi/hackerrank-sdk)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/nikhilkumarsingh/hackerrank-sdk/blob/master/LICENSE.txt)
+
+
 hackerrank-sdk
 ==============
 An Unofficial Python Client for the [HackerRank Code Checker API](https://www.hackerrank.com/api/docs).
