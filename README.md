@@ -1,2 +1,2 @@
-# he-sdk-python
-Python client for HackerEarth Code Checker API
+# hackerrank-sdk
+Python client for HackerRank API
