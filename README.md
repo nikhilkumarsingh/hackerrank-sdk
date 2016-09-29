@@ -4,11 +4,9 @@
 
 hackerrank-sdk
 ==============
-An Unofficial Python Client for the [HackerRank Code Checker API](https://www.hackerrank.com/api/docs).
+An Unofficial Python Client that supports interaction with [HackerRank API](https://www.hackerrank.com/api/docs).
 
-Use it as a code-compiler for any of the programming languages supported by [hackerrank](https://www.hackerrank.com).
-
-You will need an api-key to use the SDK.[Get it here](https://www.hackerrank.com/api/docs).
+This SDK provides integration with HackerRank API for compiling and running code in several languages. It can be accessed via a simple API key based authorization process.[Get your api-key from here](https://www.hackerrank.com/api/docs).
 
 The code is Python 2, but Python 3 compatible.
 
