@@ -59,6 +59,7 @@ class HackerRankAPI():
 # to convert json to a class object of Result
 class Result():
     def __init__(self,result):
+        self.error = result['stderr']
         self.output = result['stdout']
         self.memory = result['memory']
         self.time = result['time']
