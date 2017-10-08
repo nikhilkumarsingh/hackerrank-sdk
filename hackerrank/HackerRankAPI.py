@@ -1,8 +1,8 @@
 from __future__ import print_function 
 import requests
 import json
-from settings import RUN_API_ENDPOINT
-from settings import LANG_CODE
+
+
 
 #Hackerrank API endpoint
 RUN_API_ENDPOINT = 'http://api.hackerrank.com/checker/submission.json'
