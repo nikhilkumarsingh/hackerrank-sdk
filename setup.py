@@ -22,7 +22,7 @@ CLASSIFIERS = [
     ]
 
 setup(name='hackerrank-sdk',
-      version='0.1',
+      version='1.2.4',
       description='Python client for HackerRank API',
       url='https://github.com/nikhilkumarsingh/hackerrank-sdk',
       author='Nikhil Kumar Singh',
